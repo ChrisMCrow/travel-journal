@@ -1,0 +1,8 @@
+.entry {
+  cursor:pointer;
+  color: blue;
+}
+
+#details {
+  display: none;
+}
